@@ -5,4 +5,4 @@ https://albert-l-phan.github.io/Multiple_Sclerosis_Choropleth_Maps/
 
 From there, click on the pictures of the choropleth maps to access an interactive version.
 [![map](./SMSR.jpeg)](./SMSR.html)
-[![map](./Number_of_Cases.jpeg)](./Number_of_Cases.html)
+[![map](./Number of Cases.jpeg)](./Number_of_Cases.html)
