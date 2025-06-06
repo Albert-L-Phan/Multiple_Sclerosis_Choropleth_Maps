@@ -1,5 +1,8 @@
 # Multiple Sclerosis Choropleth Maps
-Choropleth Maps showing the raw number of cases, and the Standardised Multiple Sclerosis Ratios (SMSR) of different LGAs
 
-[Interactive Map Showing the Standardised Multiple Sclerosis Ratios across different LGAs in Australia](./SMSR.html)
-[Interactive Map Showing the Number of Cases across different LGAs in Australia](./Number_of_Cases.html)
+To access the interactive choropleth maps, please click on the link below:
+https://albert-l-phan.github.io/Multiple_Sclerosis_Choropleth_Maps/
+
+From there, click on the pictures of the choropleth maps to access an interactive version.
+[![map](./SMSR.jpeg)](./SMSR.html)
+[![map](./Number_of_Cases.jpeg)](./Number_of_Cases.html)
